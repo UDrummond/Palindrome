@@ -1,5 +1,5 @@
 //Michael Drummond
-//Reverse String Order and Compare to original
+//Check String if Palindrome
 #include <iostream>
 using namespace std;
 
@@ -20,11 +20,11 @@ int main()
 	//Comparing original string to reverse order
 	if (strin == TempString)
 	{
-	    cout <<"The string reversed is the same as the original string" << endl;
+	    cout <<"This is a palidrome" << endl;
 	}
 	else 
 	{
-	    cout <<"Reversed string is not the same as original string"<< endl;
+	    cout <<"This is not a palidrome"<< endl;
         }
     
     //Output reverse order
