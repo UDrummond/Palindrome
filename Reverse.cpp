@@ -20,11 +20,11 @@ int main()
 	//Comparing original string to reverse order
 	if (strin == TempString)
 	{
-	    cout <<"This is a palidrome" << endl;
+	    cout <<"This is a palindrome" << endl;
 	}
 	else 
 	{
-	    cout <<"This is not a palidrome"<< endl;
+	    cout <<"This is not a palindrome"<< endl;
         }
     
     //Output reverse order
